@@ -8,17 +8,17 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 que = {}
-SESSION_NAME = "BQARnHIjF84XYfXQDy30OgYUhgV8U9BNcjgcjj_fMzS06yDK6wRqsvjzdU-udEeHG99Kkq_LIbynXFzlQ50B_nRJhLoeIELbRCERfGVtoFHLHdZbi-FY6TdjaSfR-tHAOgbi6Jk39LmXQwXSDb1MlpWArivA-D7HVJiDQ_deCANPZ5cJy_9cWaBvs4pWPYgC1OrUZTaMpovqL45Kn70ELXrfWtQBm_e4uqpunYvezXsp23ApsF5jNg7oLIbuJysIaLxUgSAOoIbPuQcR8fan8JxwBU9Q3lz1fVzhBe-BAwkKoDhCeQcPiKK0ledqM7LQDgYqyNbwSVQJC6ASCyPyfOfdbWOzLwA"
-BOT_TOKEN = "1730197977:AAHASrIdiaO-R07Onu4dH9EsJqzt-KMppi8"
-BOT_NAME = "@VCPlayBot"
-UPDATES_CHANNEL = "LaylaList"
+SESSION_NAME = "AQDBG0VCJ02r3H2yY2Y9-YTpjsOlL3SF6U3MCG5_WieCP0OWHGCNsuGS1Tpb_UNTQ4wZKozRHW4sLqw-Ic_xqsyIt7agc_bX-xzPYBdjxeEOVJW3sWHAO3OyJ0egIrpuRQedMklRhlehliS4sPGvvlVod9lqCbLoq9skDqomxJWdWm_Rgt5bplXoBooK9a6lUN7q4NKaoFmCfr7BgCteuxTFXFGPpQiG1pV9sNL1HJj7qaPgPTHv-KreRmT8L5gBHxcfsl9XPnGSrOS3mz9TKcVQEJ4e7WHdS1NHy-I7baR5WfS-5yqHTVWiPzf6d-AzaeCGtE-vrs2Si3AevWpyOgXJXWo0nAA"
+BOT_TOKEN = "1780504797:AAE7R4gv0S44SJd0bI_BZFwt7GSfUHkhcag"
+BOT_NAME = "@Khan_MusicBot"
+UPDATES_CHANNEL = "KhanVlog"
 BG_IMAGE = "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
 admins = {}
-API_ID = int("6595783")
-API_HASH = "d6b2045d94544c7c406daf585671a44e"
-BOT_USERNAME = "ALMusicBot"
-ASSISTANT_NAME = "ALMusicAssistant"
-SUPPORT_GROUP = "Awesomesupport"
+API_ID = int("4453240")
+API_HASH = "543eea32f4ed971e6a7ced59d0e56aa2"
+BOT_USERNAME = "Khan Music Bot"
+ASSISTANT_NAME = "KhanMusicAssistant"
+SUPPORT_GROUP = "KhanChat"
 PROJECT_NAME = "VCPlayBot2.0"
 SOURCE_CODE = "github.com/QueenArzoo/VCPlayBot"
 DURATION_LIMIT = int("15")
@@ -27,4 +27,4 @@ PMPERMIT = "ENABLE"
 LOG_GRP = None
 COMMAND_PREFIXES = list("/")
 
-SUDO_USERS = list("797768146")
+SUDO_USERS = list("1708421347")
